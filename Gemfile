@@ -10,6 +10,9 @@ gem 'sqlite3'
 # Install devise
 gem 'devise'
 
+# Install Simple Form
+gem 'simple_form'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
