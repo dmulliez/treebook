@@ -7,3 +7,7 @@ one:
 two:
   content: MyText
   user: damien
+
+three:
+  content: "Hello c'est Cloth"
+  user: clothilde

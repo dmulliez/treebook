@@ -3,3 +3,9 @@ damien:
   last_name: "Mulliez"
   profile_name: "dmulliez"
   email: "mulliez.damien@gmail.com"
+
+clothilde:
+  first_name: "Clothilde"
+  last_name: "Lenglard"
+  profile_name: "clenglard"
+  email: "clothilde.lenglard@gmail.com"
