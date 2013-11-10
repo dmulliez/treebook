@@ -19,6 +19,11 @@ gem 'devise'
 # Install Simple Form
 gem 'simple_form'
 
+# Install Shoulda only for test
+group :test do 
+	gem 'shoulda'
+end
+
 
 # Gems used only for assets and not required
 # in production environments by default.

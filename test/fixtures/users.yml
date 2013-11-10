@@ -9,3 +9,9 @@ clothilde:
   last_name: "Lenglard"
   profile_name: "clenglard"
   email: "clothilde.lenglard@gmail.com"
+
+john:
+  first_name: "Johmn"
+  last_name: "Le Carré"
+  profile_name: "jlecarre"
+  email: "john@gmail.com"
